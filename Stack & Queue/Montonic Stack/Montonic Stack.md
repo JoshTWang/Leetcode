@@ -1,0 +1,2 @@
+* A montonic stack is simply a stack where the elements are always in sorted order.
+* Monotonic stacks are a good option when a problem involves comparing the size of numeric elements, **with their order being relevan**t.
