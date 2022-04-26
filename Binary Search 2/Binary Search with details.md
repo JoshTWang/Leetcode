@@ -83,7 +83,7 @@ class binarySearch{
   * In other words, when we find `nums[mid] == target` we narrow the search space but we don't want mid to be exclude
   * We return left because all the other elements are exclusive.
 
-#### Binary Search -- find the righ bound
+#### Binary Search -- find the right bound
 
 ```java
 class binarySearch{		

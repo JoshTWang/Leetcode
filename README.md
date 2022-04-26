@@ -1,3 +1,9 @@
+![image-20220416150114606](/Users/morningstar/Library/Application Support/typora-user-images/image-20220416150114606.png)
+
+![image-20220416150126129](/Users/morningstar/Library/Application Support/typora-user-images/image-20220416150126129.png)
+
+![image-20220416150141826](/Users/morningstar/Library/Application Support/typora-user-images/image-20220416150141826.png)
+
 | Total | serial numbr         | Name                                                         | Catalog                                    | Time |
 | ----- | -------------------- | ------------------------------------------------------------ | ------------------------------------------ | ---- |
 |       | 1                    | TwoSum                                                       | HashTable                                  | 1.16 |
@@ -336,9 +342,105 @@
 | 270   | Graph                | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) | Eulerian path                              | 4.6  |
 |       | Graph                | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time) | Dijkstra's                                 | 4.6  |
 |       |                      |                                                              |                                            |      |
-|       | Recursion            | [912. Sort an Array](https://leetcode.com/problems/sort-an-array) | MergeSort                                  | 4.7  |
-|       | Recursion            | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | D % C                                      | 4.7  |
+|       | RecursionII          | [912. Sort an Array](https://leetcode.com/problems/sort-an-array) | MergeSort                                  | 4.7  |
+|       | RecursionII          | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | D % C                                      | 4.7  |
+|       |                      |                                                              |                                            |      |
+|       | Daily                | [1874. Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays) | Counting sort                              | 4.8  |
+|       |                      |                                                              |                                            |      |
+|       | Daily                | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Stack                                      | 4.9  |
+|       |                      |                                                              |                                            |      |
+|       | Contest              | [2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity) | Array                                      | 4.10 |
+|       | Contest              | [2232. Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression) | Array                                      | 4.10 |
+|       | Contest              | [2233. Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments) | Heap                                       | 4.10 |
+|       | Contest              | [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Array                                      | 4.10 |
+|       |                      |                                                              |                                            |      |
+| 280   | RecursionII          | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii) | Backtracking                               | 4.11 |
+|       | RecursionII          | [51. N-Queens](https://leetcode.com/problems/n-queens)       | Backtracking                               | 4.11 |
+|       | RecursionII          | [489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner) | Backtracking                               | 4.11 |
+|       | RecursionII          | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | Backtracking                               | 4.11 |
+|       | RecursionII          | [77. Combinations](https://leetcode.com/problems/combinations) | Backtracking                               | 4.11 |
+|       | Daily                | [289. Game of Life](https://leetcode.com/problems/game-of-life/) | In place                                   | 4.11 |
+|       |                      |                                                              |                                            |      |
+|       | RecursionII          | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Recursion                                  | 4.12 |
+|       | RecursionII          | [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) | BST                                        | 4.12 |
+|       | RecursionII          | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Mono stack                                 | 4.12 |
+|       | RecursionII          | [46. Permutations](https://leetcode.com/problems/permutations) | Backtracking                               | 4.12 |
+| 290   | Daily                | [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | 2D                                         | 4.12 |
+|       |                      |                                                              |                                            |      |
+|       | Recursion            | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Backtracking                               | 4.12 |
+|       |                      |                                                              |                                            |      |
+|       | Daily                | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | BST                                        | 4.13 |
+|       |                      |                                                              |                                            |      |
+|       | Daily                | [1586. Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii) | BST                                        | 4.14 |
+|       |                      |                                                              |                                            |      |
+|       | RecursionII          | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | TreeMap or PQ                              | 4.15 |
+|       | Daily                | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | BST                                        | 4.15 |
+|       | DP                   | [198. House Robber](https://leetcode.com/problems/house-robber) | dp                                         | 4.15 |
+|       |                      |                                                              |                                            |      |
+|       | Contest              | [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero) | Array                                      | 4.16 |
+|       | Contest              | [2240. Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils) | Math                                       | 4.16 |
+|       | Contest              | [2241. Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine) | Long[]                                     | 4.16 |
+| 300   | Contest              | [2242. Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence) | Graph -- edge                              | 4.16 |
+|       | DP                   | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | Dp                                         | 4.16 |
+|       | DP                   | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | DP                                         | 4.16 |
+|       | Daily                | [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | BST                                        | 4.16 |
+|       |                      |                                                              |                                            |      |
+|       | DP                   | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | Reversed dp                                | 4.17 |
+|       | Contest              | [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string) | String                                     | 4.17 |
+|       | Contest              | [2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks) | Math                                       | 4.17 |
+|       | Contest              | [2245. Maximum Trailing Zeros in a Cornered ](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path) | 2D array + math                            | 4.17 |
+|       | Contest              | [2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) | DFS                                        | 4.17 |
+|       |                      |                                                              |                                            |      |
+|       | Daily                | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | BST                                        | 4.18 |
+| 310   | DP                   | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | DP                                         | 4.18 |
+|       | DP                   | [221. Maximal Square](https://leetcode.com/problems/maximal-square) | DP + Matrix                                | 4.18 |
+|       | DP                   | [1335. Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule) | Hard DP                                    | 4.18 |
+|       | Daily                | [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | BST                                        | 4.18 |
+|       |                      |                                                              |                                            |      |
+|       | DP                   | [322. Coin Change](https://leetcode.com/problems/coin-change) | Confused dp                                | 4.19 |
+|       | DP                   | [139. Word Break](https://leetcode.com/problems/word-break)  | OMG                                        | 4.19 |
+|       | DP                   | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | DP                                         | 4.19 |
+|       | DP                   | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | Hard DP                                    | 4.19 |
+|       |                      |                                                              |                                            |      |
+|       | DP                   | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | DP                                         | 4.20 |
+|       | DP                   | [276. Paint Fence](https://leetcode.com/problems/paint-fence) | Counting DP                                | 4.20 |
+| 320   | DP                   | [518. Coin Change 2](https://leetcode.com/problems/coin-change-2) | Strange DP                                 | 4.20 |
+|       | DP                   | [91. Decode Ways](https://leetcode.com/problems/decode-ways) | DP                                         | 4.20 |
+|       |                      |                                                              |                                            |      |
+|       | DP                   | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | Kadane's Algorithm                         | 4.21 |
+|       | DP                   | [62. Unique Paths](https://leetcode.com/problems/unique-paths) | DP Path                                    | 4.21 |
+|       | DP                   | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | DP Path                                    | 4.21 |
+|       | DP                   | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | DP Path                                    | 4.21 |
+|       | DP                   | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) | DP Path                                    | 4.21 |
+|       | DP                   | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | DP                                         | 4.21 |
+|       | DP                   | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | DP                                         | 4.21 |
+|       |                      |                                                              |                                            |      |
+|       | DP                   | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | DP                                         | 4.22 |
+| 330   | Daily                | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | System Design                              | 4.22 |
+|       | Weekly               | [1166. Design File System](https://leetcode.com/problems/design-file-system) | System Design                              | 4.22 |
+|       | DP                   | [256. Paint House](https://leetcode.com/problems/paint-house) | Basic DP                                   | 4.22 |
+|       |                      |                                                              |                                            |      |
+|       | DP                   | [265. Paint House II](https://leetcode.com/problems/paint-house-ii) | Basic DP                                   | 4.23 |
+|       |                      |                                                              |                                            |      |
+|       | Daily                | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system) | System Design                              | 4.24 |
+|       | Contest              | [2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays) | Repetition                                 | 4.24 |
+|       | Contest              | [2249. Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle) | Simulation                                 | 4.24 |
+|       | Contest              | [2250. Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point) | Binary Search                              | 4.24 |
+|       | Contest              | [2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom) | Sorting                                    | 4.24 |
+|       | DP                   | [1473. Paint House III](https://leetcode.com/problems/paint-house-iii) | TOO COMPLICATED                            | 4.24 |
+|       |                      |                                                              |                                            |      |
+| 340   | Daily                | [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | System Design                              | 4.25 |
+|       | DP                   | [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation) | Easy DP                                    | 4.25 |
+|       | DP                   | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | Hard DP                                    | 4.25 |
+|       | DP                   | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) | Good DP                                    | 4.25 |
+|       | DP                   | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | Hard to simulation                         | 4.25 |
+|       | DP                   | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | state variables                            | 4.25 |
+|       |                      |                                                              |                                            |      |
+|       | DP                   | [97. Interleaving String](https://leetcode.com/problems/interleaving-string) | Final question for DP newbie               | 4.26 |
 |       |                      |                                                              |                                            |      |
 |       |                      |                                                              |                                            |      |
 |       |                      |                                                              |                                            |      |
-|       |                      |                                                              |                                            |      |
+
+
+
+![image-20220419163426208](/Users/morningstar/Library/Application Support/typora-user-images/image-20220419163426208.png)

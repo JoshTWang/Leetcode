@@ -1,8 +1,22 @@
-#### Interesting
+##### Integer vs Int in list
 
 * In List<Integer>
   * `remove(5) will remove the index of 5`
   * `remove((Integer) 5) will remove the val of 5 in the list`
+
+#### Initialize a list with value
+
+Immutable
+
+* ```java
+  List<String> places = Arrays.asList("Buenos Aires", "Córdoba", "La Plata");
+  ```
+
+mutable
+
+```java
+ArrayList<String> places = new ArrayList<>(Arrays.asList("Buenos Aires", "Córdoba", "La Plata"));
+```
 
 
 
