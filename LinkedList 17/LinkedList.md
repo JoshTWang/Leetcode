@@ -1,16 +1,36 @@
-##### Integer vs Int in list
+#### Operations to memorize
+
+###### Convert list to array
+
+```java
+int[] arr = list.toArray(new int[list.size()])
+```
+
+###### Convert array to list
+
+```java
+List<Integer> list = Arrays.stream(arr).boxed().toList();
+
+
+List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10); 
+// Arrays.asList(objects but not array)
+```
+
+
+
+###### Integer vs Int in list
 
 * In List<Integer>
   * `remove(5) will remove the index of 5`
   * `remove((Integer) 5) will remove the val of 5 in the list`
 
-#### Initialize a list with value
+###### Initialize a list with value
 
 Immutable
 
-* ```java
-  List<String> places = Arrays.asList("Buenos Aires", "Córdoba", "La Plata");
-  ```
+```java
+List<String> places = Arrays.asList("Buenos Aires", "Córdoba", "La Plata");
+```
 
 mutable
 

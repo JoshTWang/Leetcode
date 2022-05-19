@@ -4,7 +4,7 @@
   * Topdown is easy
   * Bottomup is tricky
 
-
+![diff](https://leetcode.com/problems/deepest-leaves-sum/Figures/1302/traversals.png)
 
 ### Binary Tree
 
