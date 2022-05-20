@@ -549,4 +549,15 @@
 |       |                          |                                                              |                                            |      |
 |       | Study Plan               | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | DP                                         | 5.18 |
 |       | Study Plan               | [55. Jump Game](https://leetcode.com/problems/jump-game/)    | DP                                         | 5.18 |
+|       | Study Plan               | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | DP                                         | 5.18 |
+|       | Study Plan               | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Matrix                                     | 5.18 |
+|       | Study Plan               | [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Math                                       | 5.18 |
+|       | Study Plan               | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Two Pointer                                | 5.18 |
+|       | Interest                 | [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii) | DFS                                        | 5.18 |
+|       | Interest                 | [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums) | BFS                                        | 5.18 |
+|       | Study Plan               | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Matrix                                     | 5.18 |
+|       |                          |                                                              |                                            |      |
+|       |                          |                                                              |                                            |      |
+|       |                          |                                                              |                                            |      |
+|       |                          |                                                              |                                            |      |
 |       |                          |                                                              |                                            |      |
