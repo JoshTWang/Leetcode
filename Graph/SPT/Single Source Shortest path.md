@@ -69,7 +69,7 @@
 
 ##### Dynamic Programming
 
-![image-20220517180942645](/Users/morningstar/Library/Application Support/typora-user-images/image-20220517180942645.png)
+![image-20220517180942645](../../images/image-20220517180942645.png)
 
 > Time complexity: $O(V * E)$
 >
@@ -81,7 +81,7 @@
 
 ##### Bellman-Ford: 2 improvement
 
-![image-20220517182434647](/Users/morningstar/Library/Application Support/typora-user-images/image-20220517182434647.png)
+![image-20220517182434647](../../images/image-20220517182434647.png)
 
 ###### How to detect "negative weight cycles"
 

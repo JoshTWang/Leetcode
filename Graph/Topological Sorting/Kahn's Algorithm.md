@@ -7,7 +7,7 @@
 * To be specific, given vertices `u` and `v`, to reach vertex `v`, we must have reached vertex `u` first. In “topological sorting”, `u` has to appear before `v` in the ordering. 
 * The most popular algorithm for “topological sorting” is **Kahn’s algorithm**.
 
-![image-20220521152850684](/Users/morningstar/Library/Application Support/typora-user-images/image-20220521152850684.png)
+![image-20220521152850684](../../images/image-20220521152850684.png)
 
 ##### Complexity analysis
 

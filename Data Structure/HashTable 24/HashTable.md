@@ -147,19 +147,19 @@ The average time complexity of both insertion and search is still `O(1)`. And th
 
 #### Design the key
 
-![image-20220305183427189](/Users/morningstar/Library/Application Support/typora-user-images/image-20220305183427189.png)
+![image-20220305183427189](../../images/image-20220305183427189.png)
 
 ###### 49 - Group Anagrams
 
-![image-20220305183444915](/Users/morningstar/Library/Application Support/typora-user-images/image-20220305183444915.png)
+![image-20220305183444915](../../images/image-20220305183444915.png)
 
 ###### 249 - Group Shifted Strings
 
-![image-20220305183511113](/Users/morningstar/Library/Application Support/typora-user-images/image-20220305183511113.png)
+![image-20220305183511113](../../images/image-20220305183511113.png)
 
 ###### 652 - Find Duplicate Subtrees
 
-![image-20220305183626357](/Users/morningstar/Library/Application Support/typora-user-images/image-20220305183626357.png)
+![image-20220305183626357](../../images/image-20220305183626357.png)
 
 
 

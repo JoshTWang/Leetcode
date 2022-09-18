@@ -25,7 +25,7 @@ where *f*(*n*) is the time complexity that it takes to divide the problems into 
 
 Then, Master Theorem provides us three formulas to calculate the time complexity of the recursion algorithm, according to the relationship among {a, b, d}. They are stated as follows:
 
-![image-20220409002012618](/Users/morningstar/Library/Application Support/typora-user-images/image-20220409002012618.png)
+![image-20220409002012618](../../images/image-20220409002012618.png)
 
 The conditions for each case correspond to the intuition of whether the work to split problems and combine results (*i.e.* *f*(*n*)) outweighs the work of subproblems (*i.e.* a*⋅*T(*n / b*)).
 
@@ -33,7 +33,9 @@ The conditions for each case correspond to the intuition of whether the work to 
 
 #### Case 1) Binary tree traversal -- DFS
 
-![image-20220409010252120](/Users/morningstar/Library/Application Support/typora-user-images/image-20220409010252120.png)
+$$
+T(n) = O(n^{log_ba})
+$$
 
 *T*(*n*) = *a*⋅*T*(*n / b*) + *f*(*n*)
 

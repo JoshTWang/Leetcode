@@ -1,4 +1,6 @@
-![image-20220130165616225](/Users/morningstar/Library/Application Support/typora-user-images/image-20220130165616225.png)
+![image-20220130165616225](../../../images/image-20220130165616225.png)
+
+
 
 ### XOR gate operation
 
@@ -43,4 +45,3 @@ a^b = 0011 0001
 > ```java
 > b = a ^ 1; // 0 ^ 1 = 1, 1 ^ 1 = 0
 > ```
->

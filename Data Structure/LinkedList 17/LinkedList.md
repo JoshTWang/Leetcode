@@ -44,7 +44,7 @@ ArrayList<String> places = new ArrayList<>(Arrays.asList("Buenos Aires", "Córdo
 
 * Linked list is a **linear** data structure which **link all the separated elements together** by the **reference field**
 
-![image-20220210160042232](/Users/morningstar/Library/Application Support/typora-user-images/image-20220210160042232.png)
+![image-20220210160042232](../../images/image-20220210160042232.png)
 
 * Two type
   * Singly linked list

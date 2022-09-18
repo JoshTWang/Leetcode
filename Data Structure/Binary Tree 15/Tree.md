@@ -12,7 +12,7 @@
 
 #### Traverse a tree
 
-![image-20220217004529708](/Users/morningstar/Library/Application Support/typora-user-images/image-20220217004529708.png)
+![image-20220217004529708](../../images/image-20220217004529708.png)
 
 ##### Pre-oder Traversal
 

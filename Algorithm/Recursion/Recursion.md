@@ -77,7 +77,11 @@ In the function {F(X)}*F*(*X*), we will:
 
 * Given a recursion algorithm, its time complexity {\mathcal{O}(T)}O(*T*) is typically the product of the number of recursion **invocations** (denoted as R) and the time complexity of calculation (denoted as (O(*s*)) that incurs along with **each recursion call**:
 
-![image-20220311151621495](/Users/morningstar/Library/Application Support/typora-user-images/image-20220311151621495.png)
+$$
+O(T) = R*O(s)
+$$
+
+
 
 ###### printReverse
 
