@@ -38,7 +38,7 @@ class binarySearch{
 ```java
 class binarySearch{
 		int binarySearchII(int[] nums, int target){
-        int left = 0, right = nums.length;
+        int left = 0, right = nums.length; // we will try left but never try right so right = nums.length
         while(left < right){
             int mid = left + (right - left) / 2;
             if(nums[mid] < target) { 
@@ -93,7 +93,7 @@ public class Solution extends VersionControl {
 ```java
 public class Solution extends VersionControl {
   	// 1-index
-    public int firstBadVersion(int n) {
+    public int firstBadVersion(int n) { // T T T F
         int left = 1;
         int right = n;
         while (left < right) {
@@ -114,7 +114,7 @@ public class Solution extends VersionControl {
 ```java
 class binarySearch{
 		int binarySearchIII(int[] nums, int target){
-        int left = -1, right = nums.length - 1;
+        int left = -1, right = nums.length - 1; // we will try right but never try left so left = -1
         while(left < right){
             int mid = left + (right - left + 1) / 2;
             if(nums[mid] <= target) { 
