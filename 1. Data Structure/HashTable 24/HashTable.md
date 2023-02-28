@@ -80,7 +80,46 @@ public class Main {
 for (Map.Entry<Integer, Integer> entry : hashmap.entrySet()) {
   System.out.print("(" + entry.getKey() + "," + entry.getValue() + ") ");
 }
+
 ```
+
+
+
+-----
+
+> If you're only interested in the keys, you can iterate through the [`keySet()`](https://docs.oracle.com/javase/1.5.0/docs/api/java/util/Map.html#keySet()) of the map:
+>
+> ```java
+> Map<String, Object> map = ...;
+> 
+> for (String key : map.keySet()) {
+>     // ...
+> }
+> ```
+>
+> If you only need the values, use [`values()`](https://docs.oracle.com/javase/1.5.0/docs/api/java/util/Map.html#values()):
+>
+> ```java
+> for (Object value : map.values()) {
+>     // ...
+> }
+> ```
+>
+> Finally, if you want both the key and value, use [`entrySet()`](https://docs.oracle.com/javase/1.5.0/docs/api/java/util/Map.html#entrySet()):
+>
+> ```java
+> for (Map.Entry<String, Object> entry : map.entrySet()) {
+>     String key = entry.getKey();
+>     Object value = entry.getValue();
+>     // ...
+> }
+> ```
+
+-----
+
+
+
+
 
 ###### Initiate the map with objects
 
